@@ -1,3 +1,3 @@
 name = "TigerFetch"
 uuid = "59408d0a-a903-460e-b817-a5586a16527e"
-repo = "git@github.com:LouLouLibs/TigerFetch.jl.git"
+repo = "https://github.com/LouLouLibs/TigerFetch.jl.git"
