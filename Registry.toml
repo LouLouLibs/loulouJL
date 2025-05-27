@@ -1,0 +1,6 @@
+name = "loulouJL"
+uuid = "2fb78e6b-eddc-4c4c-b133-f0336ecba090"
+repo = "git@github.com:LouLouLibs/loulouJL.git"
+description = "Registry for sharing personal packages and utilities"
+
+[packages]
