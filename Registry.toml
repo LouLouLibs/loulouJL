@@ -4,3 +4,4 @@ repo = "git@github.com:LouLouLibs/loulouJL.git"
 description = "Registry for sharing personal packages and utilities"
 
 [packages]
+36dcebb2-80bb-4116-91f4-ed9f396c4a1c = { name = "BazerUtils", path = "B/BazerUtils" }
