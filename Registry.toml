@@ -6,3 +6,4 @@ description = "Registry for sharing personal packages and utilities"
 [packages]
 2e4c0fa2-b49b-4c8f-9592-485f04b9fc03 = { name = "FinanceRoutines", path = "F/FinanceRoutines" }
 36dcebb2-80bb-4116-91f4-ed9f396c4a1c = { name = "BazerUtils", path = "B/BazerUtils" }
+59408d0a-a903-460e-b817-a5586a16527e = { name = "TigerFetch", path = "T/TigerFetch" }
