@@ -16,7 +16,7 @@ create_registry("loulouJL",
 ```
 
 
-## Add a package to this registry
+## Add or update a package to this registry
 
 Inside a package folder ... activate the package and simply record it; see [doc](https://github.com/GunnarFarneback/LocalRegistry.jl/blob/master/docs/register.md
 ).
