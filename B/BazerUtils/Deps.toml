@@ -2,3 +2,7 @@
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 LoggingExtras = "e6f89c97-d47a-5376-807f-9c37f3926c36"
+
+["0.8 - 0"]
+CodecZlib = "944b1d66-785c-5afd-91f1-9de20f533193"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
