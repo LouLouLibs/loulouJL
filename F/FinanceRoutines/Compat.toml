@@ -1,8 +1,27 @@
 [0]
 CSV = "0.10"
+
+["0-0.4.3"]
 DataFrames = "1"
 julia = "1"
 
-["0.4.3 - 0"]
-BazerData = "0.7.4 - 0.7"
-Roots = "2.2.7 - 2"
+["0.4.3"]
+BazerData = "0.7.4-0.7"
+Roots = "2.2.7-2"
+
+["0.4.4-0"]
+BazerData = "0.7"
+DataFrames = "1.6.0-1"
+DataPipes = "0.3"
+Decimals = "0.4"
+FlexiJoins = "0.1"
+GLM = "1.9.0-1"
+IntervalSets = "0.7"
+LibPQ = "1.17.0-1"
+Missings = "1"
+PeriodicalDates = "2"
+Roots = "2.2.0-2"
+Tables = "1.10.0-1"
+WeakRefStrings = "1.4.0-1"
+ZipFile = "0.10"
+julia = "1.10.0-1"
