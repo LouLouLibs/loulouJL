@@ -8,3 +8,4 @@ description = "Registry for sharing personal packages and utilities"
 36dcebb2-80bb-4116-91f4-ed9f396c4a1c = { name = "BazerUtils", path = "B/BazerUtils" }
 59408d0a-a903-460e-b817-a5586a16527e = { name = "TigerFetch", path = "T/TigerFetch" }
 ad8c8c52-6dfa-4bf6-87e8-7d1cc23c7c14 = { name = "NickelEval", path = "N/NickelEval" }
+d6d9bf1d-14ee-42c9-93f7-cccc2a9ff2c2 = { name = "BazerData", path = "B/BazerData" }
